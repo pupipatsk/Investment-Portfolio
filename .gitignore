@@ -167,4 +167,4 @@ cython_debug/
 *.DS_Store
 
 # --- Classified --- #
-data/
+data_private/
