@@ -16,8 +16,8 @@ The extracted data is then processed, analyzed, and visualized to provide valuab
 ## Prerequisites
 - Python 3.6+
 - Tesseract OCR
+    MacOS
     ```bash
-    # MacOS
     brew install tesseract
     ```
 - Libraries
