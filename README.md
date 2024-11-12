@@ -1,1 +1,1 @@
-![overview](pictures/Overview.png)
+![overview](pictures/Overview-16_9.png)
